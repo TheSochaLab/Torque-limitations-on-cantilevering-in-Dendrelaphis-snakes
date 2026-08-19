@@ -1,0 +1,152 @@
+﻿Snake ID,Dataset,Location,Location ID,SVL (cm),Mass (g),Species,Status
+2018DP01,Current,Northern Queensland,1,113.988,185.1,D. punctulatus,Wild-caught
+2018DP02,Current,Northern Queensland,1,127.4433333,267.2,D. punctulatus,Wild-caught
+2018DP03,Current,Northern Queensland,1,88.97333333,84.8,D. punctulatus,Wild-caught
+2018DC04,Current,Northern Queensland,1,77.373,47.7,D. calligastra,Wild-caught
+2018DC05,Current,Northern Queensland,1,84.25833333,85.5,D. calligastra,Wild-caught
+2018DP06,Current,Northern Queensland,1,124.3746667,261.3,D. punctulatus,Wild-caught
+2019DC07,Current,Northern Queensland,1,46.19933333,14.5,D. calligastra,Wild-caught
+2019DP08,Current,Northern Queensland,1,119.094,301.1,D. punctulatus,Wild-caught
+2019DP09,Current,Cairns Aquarium,2,109,161.7,D. punctulatus,Wild-caught
+2019DP10,Current,Cairns Aquarium,2,65,37.1,D. punctulatus,Captive-bred
+2019DP11,Current,Cairns Aquarium,2,59,27.8,D. punctulatus,Captive-bred
+2019DP12,Current,Cairns Aquarium,2,43,12.5,D. punctulatus,Captive-bred
+2019DP13,Current,Cairns Aquarium,2,55,23.9,D. punctulatus,Captive-bred
+2019DP14,Current,Cairns Aquarium,2,102,,D. punctulatus,Wild-caught
+2019DP15,Current,Sunshine Coast,3,86.992,72.3,D. punctulatus,Wild-caught
+2019DP16,Current,Sunshine Coast,3,76.98133333,83.4,D. punctulatus,Wild-caught
+2019DP17,Current,Sunshine Coast,3,81.23117629,76.5,D. punctulatus,Wild-caught
+2019DP18,Current,Sunshine Coast,3,29.534,5.1,D. punctulatus,Wild-caught
+2019DP19,Current,Sunshine Coast,3,30.64466667,5.3,D. punctulatus,Wild-caught
+2019DP20,Current,Sunshine Coast,3,89.49533333,133.4,D. punctulatus,Wild-caught
+1130,"Fearn &Trembath, 2011","Nelly Bay, Magnetic Island",4,99.3,96,D. punctulatus,Wild-caught
+1134,"Fearn &Trembath, 2011","Pallarenda, Townsville",4,106.2,90,D. punctulatus,Wild-caught
+1135,"Fearn &Trembath, 2011","Pallarenda, Townsville",4,88.5,85,D. punctulatus,Wild-caught
+1146,"Fearn &Trembath, 2011","Douglas, Townsville",4,101,140,D. punctulatus,Wild-caught
+1158,"Fearn &Trembath, 2011","Pallarenda, Townsville",4,86.5,100,D. punctulatus,Wild-caught
+2280,"Fearn &Trembath, 2011",Townsville,4,136,900,D. punctulatus,Wild-caught
+1159,"Fearn &Trembath, 2011",Townsville,4,94.3,140,D. punctulatus,Wild-caught
+1164,"Fearn &Trembath, 2011","James Cook University, Townsville",4,96,98,D. punctulatus,Wild-caught
+1162,"Fearn &Trembath, 2011",Townsville,4,84.8,86,D. punctulatus,Wild-caught
+1163,"Fearn &Trembath, 2011",Townsville,4,95.5,88,D. punctulatus,Wild-caught
+1177,"Fearn &Trembath, 2011",Townsville,4,97.5,150,D. punctulatus,Wild-caught
+1180,"Fearn &Trembath, 2011",Townsville,4,96.8,110,D. punctulatus,Wild-caught
+1184,"Fearn &Trembath, 2011","James Cook University, Townsville",4,106.1,180,D. punctulatus,Wild-caught
+1187,"Fearn &Trembath, 2011","James Cook University, Townsville",4,106.3,190,D. punctulatus,Wild-caught
+1192,"Fearn &Trembath, 2011","James Cook University, Townsville",4,86.3,115,D. punctulatus,Wild-caught
+1193,"Fearn &Trembath, 2011",Townsville,4,55.3,26,D. punctulatus,Wild-caught
+1194,"Fearn &Trembath, 2011","James Cook University, Townsville",4,105.4,191,D. punctulatus,Wild-caught
+1199,"Fearn &Trembath, 2011",Townsville,4,106.3,221,D. punctulatus,Wild-caught
+1198,"Fearn &Trembath, 2011","Wulguru, Townsville",4,63.5,71,D. punctulatus,Wild-caught
+67,"Fearn &Trembath, 2011","Rotary College, James Cook University",4,99.5,120,D. punctulatus,Wild-caught
+130,"Fearn &Trembath, 2011","Cyclone Testing Station, James Cook University",4,89,80,D. punctulatus,Wild-caught
+138,"Fearn &Trembath, 2011",St. Pauls College,4,101,120,D. punctulatus,Wild-caught
+184,"Fearn &Trembath, 2011",St. Pauls College,4,107,180,D. punctulatus,Wild-caught
+226,"Fearn &Trembath, 2011","Townsville, Died at Vet ",4,88,160,D. punctulatus,Wild-caught
+358,"Fearn &Trembath, 2011",St. Pauls College,4,96.5,140,D. punctulatus,Wild-caught
+732,"Fearn &Trembath, 2011","Alligator Creek, North Queensland",4,93.1,80,D. punctulatus,Wild-caught
+900,"Fearn &Trembath, 2011",Australian Institute of Marine Sciences Road,4,99.6,140,D. punctulatus,Wild-caught
+1303,"Fearn &Trembath, 2011","Sunbird Motel, South of Townsville",4,71.1,44,D. punctulatus,Wild-caught
+1304,"Fearn &Trembath, 2011","Alligator Creek, North Queensland",4,110,180,D. punctulatus,Wild-caught
+1305,"Fearn &Trembath, 2011","Alligator Creek, North Queensland",4,111,250,D. punctulatus,Wild-caught
+1467,"Fearn &Trembath, 2011",JCU tin site,4,94.3,100,D. punctulatus,Wild-caught
+1469,"Fearn &Trembath, 2011",Australian Institute of Marine Sciences Road,4,53.4,20,D. punctulatus,Wild-caught
+1721,"Fearn &Trembath, 2011",Townsville hospital,4,89.9,90,D. punctulatus,Wild-caught
+1707,"Fearn &Trembath, 2011",Mingela Range,4,120.2,350,D. punctulatus,Wild-caught
+1132,"Fearn &Trembath, 2011","Pallarenda, Townsville",4,111,310,D. punctulatus,Wild-caught
+1133,"Fearn &Trembath, 2011","Pallarenda, Townsville",4,84.3,70,D. punctulatus,Wild-caught
+1136,"Fearn &Trembath, 2011","Pallarenda, Townsville",4,108.4,100,D. punctulatus,Wild-caught
+1138,"Fearn &Trembath, 2011","Douglas, Townsville",4,111,200,D. punctulatus,Wild-caught
+1137,"Fearn &Trembath, 2011",Townsville,4,115.2,200,D. punctulatus,Wild-caught
+1140,"Fearn &Trembath, 2011",Townsvillle,4,118.7,100,D. punctulatus,Wild-caught
+1141,"Fearn &Trembath, 2011","Horseshoe Bay, Magnetic Island",4,92.4,98,D. punctulatus,Wild-caught
+1142,"Fearn &Trembath, 2011","Nelly Bay, Magnetic Island",4,112.5,202,D. punctulatus,Wild-caught
+1144,"Fearn &Trembath, 2011","Nelly Bay, Magnetic Island",4,122.1,260,D. punctulatus,Wild-caught
+1145,"Fearn &Trembath, 2011","Pallarenda, Townsville",4,111.1,200,D. punctulatus,Wild-caught
+1147,"Fearn &Trembath, 2011",Townsville,4,137.4,500,D. punctulatus,Wild-caught
+1148,"Fearn &Trembath, 2011",Townsville,4,114.7,138,D. punctulatus,Wild-caught
+1149,"Fearn &Trembath, 2011","Douglas, Townsville",4,120.6,320,D. punctulatus,Wild-caught
+1150,"Fearn &Trembath, 2011","James Cook University, Townsville",4,130.2,400,D. punctulatus,Wild-caught
+1152,"Fearn &Trembath, 2011","Pallarenda, Townsville",4,124.1,300,D. punctulatus,Wild-caught
+1153,"Fearn &Trembath, 2011",Townsville,4,145.3,400,D. punctulatus,Wild-caught
+1154,"Fearn &Trembath, 2011","James Cook University, Townsville",4,52.5,21,D. punctulatus,Wild-caught
+1157,"Fearn &Trembath, 2011",Townsville,4,116,200,D. punctulatus,Wild-caught
+1156,"Fearn &Trembath, 2011",Townsville,4,116.2,200,D. punctulatus,Wild-caught
+1161,"Fearn &Trembath, 2011","Douglas, Townsville",4,90.6,100,D. punctulatus,Wild-caught
+1160,"Fearn &Trembath, 2011","Pallarenda, Townsville",4,114.1,180,D. punctulatus,Wild-caught
+1168,"Fearn &Trembath, 2011","James Cook University, Townsville",4,63.7,33,D. punctulatus,Wild-caught
+1169,"Fearn &Trembath, 2011",Townsville,4,117.2,150,D. punctulatus,Wild-caught
+1170,"Fearn &Trembath, 2011",Townsville,4,104.3,200,D. punctulatus,Wild-caught
+1171,"Fearn &Trembath, 2011",Townsville,4,110,100,D. punctulatus,Wild-caught
+1172,"Fearn &Trembath, 2011",Townsville,4,116.3,150,D. punctulatus,Wild-caught
+1174,"Fearn &Trembath, 2011","Pallarenda, Townsville",4,49.5,20,D. punctulatus,Wild-caught
+1173,"Fearn &Trembath, 2011",Townsville,4,133.1,200,D. punctulatus,Wild-caught
+1175,"Fearn &Trembath, 2011",Townsville,4,110.6,410,D. punctulatus,Wild-caught
+1176,"Fearn &Trembath, 2011","Wulguru, Townsville",4,99.2,140,D. punctulatus,Wild-caught
+1178,"Fearn &Trembath, 2011","James Cook University, Townsville",4,105.2,165,D. punctulatus,Wild-caught
+1181,"Fearn &Trembath, 2011",Townsville,4,76.1,42,D. punctulatus,Wild-caught
+1183,"Fearn &Trembath, 2011","Douglas, Townsville",4,65.4,40,D. punctulatus,Wild-caught
+1185,"Fearn &Trembath, 2011","Wulguru, Townsville",4,38.2,9,D. punctulatus,Wild-caught
+1186,"Fearn &Trembath, 2011","Wulguru, Townsville",4,55.2,19,D. punctulatus,Wild-caught
+1188,"Fearn &Trembath, 2011","James Cook University, Townsville",4,87.2,100,D. punctulatus,Wild-caught
+1190,"Fearn &Trembath, 2011","Wulguru, Townsville",4,45.1,15,D. punctulatus,Wild-caught
+1191,"Fearn &Trembath, 2011","Wulguru, Townsville",4,93.6,155,D. punctulatus,Wild-caught
+1197,"Fearn &Trembath, 2011","Wulguru, Townsville",4,139.6,300,D. punctulatus,Wild-caught
+63,"Fearn &Trembath, 2011","St.Pauls College, In garden",4,113.5,240,D. punctulatus,Wild-caught
+1200,"Fearn &Trembath, 2011","Wulguru, Townsville",4,120.5,341,D. punctulatus,Wild-caught
+71,"Fearn &Trembath, 2011","Wulguru, Townsville",4,147.3,338,D. punctulatus,Wild-caught
+74,"Fearn &Trembath, 2011",St. Pauls College,4,95,80,D. punctulatus,Wild-caught
+88,"Fearn &Trembath, 2011","St. Raphaels College, James Cook University",4,112,150,D. punctulatus,Wild-caught
+90,"Fearn &Trembath, 2011","Rotary College, James Cook University",4,112,245,D. punctulatus,Wild-caught
+109,"Fearn &Trembath, 2011",St. Pauls College,4,101,120,D. punctulatus,Wild-caught
+126,"Fearn &Trembath, 2011",St. Pauls College,4,102,110,D. punctulatus,Wild-caught
+140,"Fearn &Trembath, 2011","St. Raphaels College, James Cook University",4,137.5,380,D. punctulatus,Wild-caught
+148,"Fearn &Trembath, 2011","Library Bridge, James Cook University",4,75,37,D. punctulatus,Wild-caught
+151,"Fearn &Trembath, 2011","Riverside Gardens, Townsville",4,105.5,160,D. punctulatus,Wild-caught
+160,"Fearn &Trembath, 2011","St. Raphaels College, James Cook University",4,110,160,D. punctulatus,Wild-caught
+287,"Fearn &Trembath, 2011",St. Pauls College,4,98.7,120,D. punctulatus,Wild-caught
+914,"Fearn &Trembath, 2011","Pallarenda, Townsville",4,83.8,66,D. punctulatus,Wild-caught
+968,"Fearn &Trembath, 2011","Wulguru, Townsville",4,92.1,160,D. punctulatus,Wild-caught
+996,"Fearn &Trembath, 2011","Hermit Park, Townsville",4,83.7,80,D. punctulatus,Wild-caught
+1231,"Fearn &Trembath, 2011","Garbutt, Townsville",4,87.3,120,D. punctulatus,Wild-caught
+1232,"Fearn &Trembath, 2011","Wulguru, Townsville",4,121.8,260,D. punctulatus,Wild-caught
+1250,"Fearn &Trembath, 2011",St. Pauls College,4,106.5,190,D. punctulatus,Wild-caught
+1296,"Fearn &Trembath, 2011",St. Pauls College,4,116.1,260,D. punctulatus,Wild-caught
+1332,"Fearn &Trembath, 2011",St. Pauls College,4,87.8,70,D. punctulatus,Wild-caught
+1479,"Fearn &Trembath, 2011",Townsville,4,104.4,110,D. punctulatus,Wild-caught
+1494,"Fearn &Trembath, 2011",Kelso,4,124,385,D. punctulatus,Wild-caught
+1691,"Fearn &Trembath, 2011",James Cook University Pool,4,104,60,D. punctulatus,Wild-caught
+1129,"Fearn &Trembath, 2011","Picnic Bay, Magnetic Island",4,93.2,100,D. punctulatus,DOR
+1151,"Fearn &Trembath, 2011","Pallarenda, Townsville",4,96.2,152,D. punctulatus,DOR
+1189,"Fearn &Trembath, 2011","James Cook University, Townsville",4,111.5,200,D. punctulatus,DOR
+149,"Fearn &Trembath, 2011",Townsville Hospital,4,77.5,60,D. punctulatus,DOR
+228,"Fearn &Trembath, 2011",Australian Institute of Marine Sciences Road,4,91.8,140,D. punctulatus,DOR
+383,"Fearn &Trembath, 2011",North of Hinchinbrook Lookout,4,81.1,80,D. punctulatus,DOR
+692,"Fearn &Trembath, 2011","Ingham, Bruce Highway",4,79.3,160,D. punctulatus,DOR
+909,"Fearn &Trembath, 2011","Insulator Creek, near Paluma",4,100,160,D. punctulatus,DOR
+920,"Fearn &Trembath, 2011",Australian Institute of Marine Sciences Road,4,87.5,160,D. punctulatus,DOR
+979,"Fearn &Trembath, 2011",Herveys Range Road,4,82.2,80,D. punctulatus,DOR
+1281,"Fearn &Trembath, 2011","Big Crystal Creek Road, Paluma",4,87.5,100,D. punctulatus,DOR
+1297,"Fearn &Trembath, 2011","Cardwell, Bruce Highway",4,87.1,120,D. punctulatus,DOR
+1462,"Fearn &Trembath, 2011",Lavarack barracks,4,95.6,120,D. punctulatus,DOR
+1557,"Fearn &Trembath, 2011","Campus Creek, JCU",4,96.4,84,D. punctulatus,DOR
+207,"Fearn &Trembath, 2011","Unknown Found in Freezer, JCU, Townsville?",4,94.5,120,D. punctulatus,DOR
+208,"Fearn &Trembath, 2011","Unknown Found in Freezer, JCU, Townsville?",4,92,160,D. punctulatus,DOR
+1131,"Fearn &Trembath, 2011","Nelly Bay, Magnetic Island",4,99.1,82,D. punctulatus,DOR
+1139,"Fearn &Trembath, 2011","Picnic Bay, Magnetic Island",4,63.1,32,D. punctulatus,DOR
+1143,"Fearn &Trembath, 2011","Cardwell, Bruce Highway",4,96.2,168,D. punctulatus,DOR
+1166,"Fearn &Trembath, 2011","Douglas, Townsville",4,132.3,400,D. punctulatus,DOR
+1167,"Fearn &Trembath, 2011","Pallarenda, Townsville",4,93.2,98,D. punctulatus,DOR
+1179,"Fearn &Trembath, 2011","20 km West of Townsville, Flinders Highway",4,96.5,190,D. punctulatus,DOR
+1182,"Fearn &Trembath, 2011","Douglas, Townsville",4,101.2,145,D. punctulatus,DOR
+136,"Fearn &Trembath, 2011",Town Common Townsville,4,56.3,26.5,D. punctulatus,DOR
+231,"Fearn &Trembath, 2011","Ingham, at bottom of Hinchinbrook Lookout",4,88.2,200,D. punctulatus,DOR
+952,"Fearn &Trembath, 2011",Australian Institute of Marine Sciences Road,4,87.1,120,D. punctulatus,DOR
+982,"Fearn &Trembath, 2011","Mingela Range,Flinders Highway",4,108,200,D. punctulatus,DOR
+967,"Fearn &Trembath, 2011","Yolanda Drive, Annandale, Townsville",4,100,160,D. punctulatus,DOR
+1029,"Fearn &Trembath, 2011",Australian Institute of Marine Sciences Road,4,74.7,60,D. punctulatus,DOR
+1221,"Fearn &Trembath, 2011","Ravensood, 10 km past ",4,114.5,,D. punctulatus,DOR
+1224,"Fearn &Trembath, 2011",Mount Elliot Drive,4,87.4,180,D. punctulatus,DOR
+1289,"Fearn &Trembath, 2011",Hencamp Creek,4,106.1,,D. punctulatus,DOR
+720,"Fearn &Trembath, 2011","Bluewater, Bruce Highway",4,,,D. punctulatus,DOR
+1811,"Fearn &Trembath, 2011",Australian Institute of Marine Sciences Road,4,,,D. punctulatus,DOR
