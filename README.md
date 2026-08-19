@@ -1,8 +1,8 @@
 # Torque-limitations-on-cantilevering-in-Dendrelaphis-snakes
 Files for Torque limitations on cantilevering in Dendrelaphis snakes paper in JEB\
-Citation: [Graham, M., Astley, H. C., Clemente, C. J., & Socha, J. J. (2026). Torque limitations on cantilevering in Dendrelaphis snakes. Journal of Experimental Biology, jeb-251396.](https://journals.biologists.com/jeb/article-abstract/doi/10.1242/jeb.251396/372318/Torque-limitations-on-cantilevering-in?redirectedFrom=fulltext)
+Citation: [Graham, M., Astley, H. C., Clemente, C. J., & Socha, J. J. (2026). Torque limitations on cantilevering in Dendrelaphis snakes. Journal of Experimental Biology, jeb-251396.](https://journals.biologists.com/jeb/article-abstract/doi/10.1242/jeb.251396/372318/Torque-limitations-on-cantilevering-in?redirectedFrom=fulltext).
 
-The code for this paper has two components. 
+The code for this paper has two components. \
 (1) code already used for analysis in previous work . You can find those materials [here](https://github.com/TheSochaLab/FlyingSnakeGaps) and [here](https://github.com/TheSochaLab/DendrelaphisGaps.) \
 These correspond to analyses completed for the following papers: \
   (a) [Graham, M., & Socha, J. J. (2021). Dynamic movements facilitate extreme gap crossing in flying snakes. Journal of Experimental Biology, 224(20), jeb242923.](https://journals.biologists.com/jeb/article/224/20/jeb242923/272554/Dynamic-movements-facilitate-extreme-gap-crossing)\
